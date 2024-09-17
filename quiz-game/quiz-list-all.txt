@@ -1,0 +1,350 @@
+¿Cómo se imprime "Hola Mundo" en Python?
+console.log("Hola Mundo")
+echo "Hola Mundo"
+print("Hola Mundo")
+3
+¿Cuál de las siguientes es una estructura de datos mutable en Python?
+tuple
+list
+str
+2
+¿Cuál es la salida de 5 // 2 en Python?
+2.5
+2
+3
+2
+¿Cómo se declara una función en Python?
+function mi_funcion():
+def mi_funcion():
+func mi_funcion():
+2
+¿Cómo accedes al tercer elemento de una lista llamada mi_lista?
+mi_lista[3]
+mi_lista[2]
+mi_lista(3)
+2
+¿Cuál es el resultado de len("Python")?
+5
+6
+7
+2
+¿Cuál de los siguientes no es un tipo de dato en Python?
+int
+float
+decimal
+3
+¿Qué palabra clave se usa para manejar excepciones en Python?
+try
+catch
+except
+1
+¿Qué operador se utiliza para elevar un número a una potencia en Python?
+^
+**
+pow()
+2
+¿Cuál es el resultado de True and False en Python?
+True
+False
+None
+2
+¿Qué significa PEP en el contexto de Python?
+Python Enhancement Proposal
+Python Efficient Programming
+Python Execution Process
+1
+¿Qué método se usa para agregar un elemento al final de una lista en Python?
+add()
+append()
+push()
+2
+¿Qué es un diccionario en Python?
+Una colección no ordenada de pares clave-valor
+Una lista de valores ordenados
+Una secuencia mutable
+1
+¿Cuál es el índice del primer elemento en una lista en Python?
+1
+0
+-1
+2
+¿Qué función se usa para convertir una cadena en entero en Python?
+str()
+int()
+float()
+2
+¿Cómo se define una clase en Python?
+define Clase():
+class Clase:
+class Clase()
+2
+¿Cómo se escribe un comentario de una sola línea en Python?
+//
+#
+/* */
+2
+¿Cuál de los siguientes es un tipo de bucle en Python?
+repeat
+loop
+while
+3
+¿Qué significa None en Python?
+Un valor nulo o vacío
+Un valor booleano
+Un tipo de entero
+1
+¿Cómo se accede a un valor en un diccionario en Python?
+Usando el índice del valor
+Usando la clave correspondiente
+Usando la posición del valor
+2
+¿Qué operador se usa para la concatenación de cadenas en Python?
++
+&
+.
+1
+¿Qué hace el método strip() en una cadena en Python?
+Elimina caracteres repetidos
+Elimina los espacios en blanco al principio y al final
+Elimina todas las letras mayúsculas
+2
+¿Cómo se crea una lista vacía en Python?
+[]
+{}
+list()
+1
+¿Qué método se utiliza para combinar dos listas en Python?
+merge()
+append()
+extend()
+3
+¿Cómo se convierte una lista en una tupla en Python?
+tuple()
+list()
+convert()
+1
+¿Cuál es el tipo de datos de True en Python?
+str
+bool
+int
+2
+¿Qué función devuelve la longitud de una lista en Python?
+length()
+count()
+len()
+3
+¿Cómo se inicia un bucle infinito en Python?
+for i in infinite:
+while True:
+for True:
+2
+¿Qué es self en una clase en Python?
+El argumento para la instancia de clase
+Un atributo predefinido de la clase
+Un método interno de la clase
+1
+¿Cuál de las siguientes funciones convierte un número en una cadena en Python?
+int()
+str()
+float()
+2
+¿Qué tipo de estructura de control es if en Python?
+Un bucle
+Una función
+Una estructura condicional
+3
+¿Qué devuelve el método split() aplicado a una cadena en Python?
+Una lista de palabras
+Una cadena en mayúsculas
+Una cadena dividida por comas
+1
+¿Cómo se accede a la longitud de un diccionario llamado mi_diccionario en Python?
+mi_diccionario.size()
+len(mi_diccionario)
+count(mi_diccionario)
+2
+¿Cuál es la salida de 4 % 2 en Python?
+2
+0
+1
+2
+¿Cómo defines un constructor en una clase en Python?
+__init__
+constructor()
+def class()
+1
+¿Qué tipo de error ocurre cuando tratas de dividir por cero en Python?
+ZeroDivisionError
+ValueError
+TypeError
+1
+¿Cómo eliminas un elemento de un diccionario en Python?
+remove()
+del
+delete()
+2
+¿Qué método se usa para agregar un elemento a un conjunto en Python?
+add()
+append()
+insert()
+1
+¿Cuál es la salida de 10 ** 2 en Python?
+1000
+100
+20
+2
+¿Qué tipo de bucle ejecuta el código al menos una vez antes de verificar la condición?
+while
+for
+Ninguno, no existe tal bucle en Python
+3
+¿Cuál de las siguientes es una palabra clave reservada en Python?
+lambda
+function
+include
+1
+¿Cómo se determina el tipo de una variable x en Python?
+typeof(x)
+type(x)
+checktype(x)
+2
+¿Cómo se accede al valor de la clave nombre en un diccionario llamado persona?
+persona["nombre"]
+persona.get(nombre)
+persona[nombre]
+1
+¿Qué operador se utiliza para comparar dos valores en Python?
+=
+==
+!=
+2
+¿Qué devuelve el método range(5) en Python?
+Una lista de números del 1 al 5
+Un objeto iterable de 0 a 4
+Un número aleatorio entre 1 y 5
+2
+¿Cuál es la salida de 3 * 'ab' en Python?
+'ababab'
+'3ab'
+'ab3'
+1
+¿Qué hace la función max() en Python?
+Devuelve el valor mínimo en una lista
+Devuelve el valor máximo en una lista
+Devuelve el número de elementos en una lista
+2
+¿Cómo creas una variable global dentro de una función en Python?
+global x
+globalize x
+x = global
+1
+¿Qué palabra clave se usa para detener un bucle en Python?
+stop
+break
+exit
+2
+¿Cuál de las siguientes estructuras de datos no permite elementos duplicados?
+list
+tuple
+set
+3
+¿Cuál es la salida de not True en Python?
+True
+False
+None
+2
+¿Cuál de las siguientes estructuras de control se utiliza para iterar sobre una secuencia en Python?
+for
+switch
+case
+1
+¿Qué función devuelve una lista de claves en un diccionario en Python?
+keys()
+values()
+items()
+1
+¿Cómo accedes al último elemento de una lista mi_lista en Python?
+mi_lista[-1]
+mi_lista[0]
+mi_lista[1]
+1
+¿Qué palabra clave se usa para declarar una función anónima en Python?
+lambda
+anon()
+func()
+1
+¿Qué función se utiliza para ordenar una lista en Python?
+order()
+sorted()
+arrange()
+2
+¿Cómo se detiene una función en Python antes de que termine todo el código en ella?
+return
+exit
+stop
+1
+¿Qué operador se utiliza para asignar un valor en Python?
+==
+=
+:=
+2
+¿Cuál es la diferencia entre una lista y una tupla en Python?
+Las listas son mutables y las tuplas no
+Las tuplas son mutables y las listas no
+Ambas son mutables
+1
+¿Cuál es la salida de bool([]) en Python?
+True
+False
+None
+2
+¿Cuál es el resultado de 5 != 3 en Python?
+True
+False
+Error
+1
+¿Qué función convierte un entero a un número decimal en Python?
+float()
+decimal()
+int()
+1
+¿Qué significa elif en una sentencia condicional en Python?
+Otra forma de decir else
+Una combinación de else y if
+Una palabra reservada para errores
+2
+¿Qué tipo de error se produce cuando una función recibe un argumento de tipo incorrecto?
+TypeError
+ValueError
+SyntaxError
+1
+¿Cuál es la función para obtener la entrada del usuario en Python 3?
+raw_input()
+input()
+get_input()
+2
+¿Cómo conviertes una lista en un conjunto en Python?
+set()
+convert_set()
+list_to_set()
+1
+¿Cómo eliminas un elemento de una lista en Python por su índice?
+delete()
+del
+remove()
+2
+¿Qué método convierte todos los caracteres de una cadena a mayúsculas en Python?
+upper()
+capitalize()
+title()
+1
+¿Qué palabra clave se usa para crear una excepción personalizada en Python?
+throw
+raise
+assert
+2
+¿Qué operador devuelve el resto de la división en Python?
+%
+/
+//
+1

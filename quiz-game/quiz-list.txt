@@ -1,0 +1,25 @@
+Pregunta:¿Cómo se imprime "Hola Mundo" en Python?
+console.log("Hola Mundo")
+echo "Hola Mundo"
+print("Hola Mundo")
+3
+Pregunta:¿Cuál de las siguientes es una estructura de datos mutable en Python?
+tuple
+list
+str
+2
+Pregunta:¿Cuál es la salida de 5 // 2 en Python?
+2.5
+2
+3
+2
+Pregunta:¿Cómo se declara una función en Python?
+function mi_funcion():
+def mi_funcion():
+func mi_funcion():
+2
+Pregunta:¿Cómo accedes al tercer elemento de una lista llamada mi_lista?
+mi_lista[3]
+mi_lista[2]
+mi_lista(3)
+2
