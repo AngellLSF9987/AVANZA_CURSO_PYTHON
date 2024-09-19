@@ -3,7 +3,43 @@
                                                              """
 print (f">>>>>>>    Ejercicios de Cadenas   <<<<<<")                                                           
 print (f"\n","Ejercicio 4: \n")
-print ("""Los teléfonos de una empresa tienen el siguiente formato prefijo-número extensión donde el prefijo es el código del
-país +34, y la extensión tiene dos dígitos (por ejemplo +34-913724710-56). 
-Escribir un programa que pregunte por un número de teléfono con este formato en la consola y muestre por pantalla el número de 
-teléfono sin el prefijo y la extensión."\n""")
+print ("""
+# A. Crea una tupla de tuplas para representar una matriz de 3x3.
+
+        # • Inicializar la tupla.
+
+                matriz = (
+                        (1,2,3),
+                        (4,5,6),
+                        (7,8,9)
+                )
+
+# B. Imprime el elemento en la segunda fila y tercera columna.
+
+        # • Acceder al elemento en la segunda fila y tercera columna
+
+                item = matriz[1][2]
+
+        # •  Imprimir resultado del elemento buscado en la tupla.
+
+                print("El item buscado en la segunda fila y tercera columna es:", item,".\n")"\n""")
+
+# A. Crea una tupla de tuplas para representar una matriz de 3x3.
+
+# • Inicializar la tupla.
+
+matriz = (
+        (1,2,3),
+        (4,5,6),
+        (7,8,9)
+)
+
+# B. Imprime el elemento en la segunda fila y tercera columna.
+
+# • Acceder al elemento en la segunda fila y tercera columna
+
+item = matriz[1][2]
+
+# •  Imprimir resultado del elemento buscado en la tupla.
+
+print("El item buscado en la segunda fila y tercera columna es:", item,".\n")

@@ -3,7 +3,54 @@
                                                              """
 print (f">>>>>>>    Ejercicios de Cadenas   <<<<<<")                                                           
 print (f"\n","Ejercicio 5: \n")
-print ("""Los teléfonos de una empresa tienen el siguiente formato prefijo-número extensión donde el prefijo es el código del
-país +34, y la extensión tiene dos dígitos (por ejemplo +34-913724710-56). 
-Escribir un programa que pregunte por un número de teléfono con este formato en la consola y muestre por pantalla el número de 
-teléfono sin el prefijo y la extensión."\n""")
+print ("""
+# A. Crea una lista de números.
+
+        # • Inicializar el objeto tipo de lista.
+
+                lista = list[1,2,3,4,5]
+
+# B. Convierte la lista en una tupla.
+
+        # • Formatear la lista a tupla
+
+                tupla = (lista)
+
+                print("La tupla original de números es:", tupla,".\n")
+
+# C. Multiplica cada elemento de la tupla por 2 y guarda el resultado en
+# una nueva tupla.
+
+        # • Inyectamos la tupla dentro de una lista para poder realizar la operación del producto de los valores.
+
+                tupla_multiplicacion = tupla(item * 2 for item in tupla)
+
+        # • Imprimir resultado de la nueva tupla.
+
+                print("La nueva tupla obtenida tiene los valores numéricos:", tupla_multiplicacion,".\n")"\n""")
+
+# A. Crea una lista de números.
+
+# • Inicializar el objeto tipo de lista.
+
+lista = list[1,2,3,4,5]
+
+# B. Convierte la lista en una tupla.
+
+# • Formatear la lista a tupla
+
+tupla = (lista)
+
+print("La tupla original de números es:", tupla,".\n")
+
+# C. Multiplica cada elemento de la tupla por 2 y guarda el resultado en
+# una nueva tupla.
+
+# • Inyectamos la tupla dentro de una lista para poder realizar la operación del producto de los valores.
+
+tupla_multiplicacion = tupla(item * 2 for item in tupla)
+
+# • Imprimir resultado de la nueva tupla.
+
+print("La nueva tupla obtenida tiene los valores numéricos:", tupla_multiplicacion,".\n")
+
