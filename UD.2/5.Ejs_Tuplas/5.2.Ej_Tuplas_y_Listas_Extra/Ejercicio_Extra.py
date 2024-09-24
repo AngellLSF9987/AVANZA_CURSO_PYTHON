@@ -276,7 +276,6 @@ if es_admin:
     option = ""
     
     # Menú ADMIN
-    
     while option != "S":
         
         print("\nMenú Administrador.\n")
